@@ -1,6 +1,6 @@
 def my_hash_creator(key, value)
   hashies = {
-    name: "George", age: 39
+    name: "Grace Hopper"
   }
   return hashies
 end

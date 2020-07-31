@@ -7,7 +7,7 @@ end
 
 def read_from_hash(hash, key)
   hash_hash= {
-    hash=> key
+    hash=>
   }
 end
 

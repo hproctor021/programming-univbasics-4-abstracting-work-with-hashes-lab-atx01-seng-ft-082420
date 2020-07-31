@@ -1,6 +1,6 @@
 def my_hash_creator(key, value)
   hashies = {
-    1=> 2
+    key=> value
   }
   return hashies
 end
